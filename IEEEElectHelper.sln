@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEEEElectHelper", "IEEEElectHelper\IEEEElectHelper.csproj", "{244D8BA9-8D88-4DA0-8B48-E1729EA2D770}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{244D8BA9-8D88-4DA0-8B48-E1729EA2D770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{244D8BA9-8D88-4DA0-8B48-E1729EA2D770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{244D8BA9-8D88-4DA0-8B48-E1729EA2D770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{244D8BA9-8D88-4DA0-8B48-E1729EA2D770}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
