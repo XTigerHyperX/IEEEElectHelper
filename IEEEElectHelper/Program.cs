@@ -6,5 +6,6 @@ using IEEEElectHelper;
 Loader.Testagain();
 var contents = File.ReadAllLines("assets\\results\\skipped\\skipped.txt");
 Array.Sort(contents);
-File.WriteAllLines("assets\\results\\skipped\\skipped.txt", contents);
-Loader.check();
+var con = Functions.RemoveEmptyLines(contents);
+File.WriteAllLines("assets\\results\\skipped\\skipped.txt", con);
+//Loader.check();
